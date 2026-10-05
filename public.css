@@ -1,0 +1,1253 @@
+.public h1{
+        text-align: center;
+        margin-top: 20px;
+        letter-spacing: 2px;
+        color: #888888;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.pak{
+         background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/ptdc_barometer_2025-26.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.tourism{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism h1{
+    font-weight: bold;
+}
+
+.tourism a{
+    color: white;
+    text-decoration: none;
+}
+
+.pak2{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/trpak.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism2{
+     position: absolute;
+    margin-top: 240px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism2 h1{
+    font-weight: bold;
+}
+
+.tourism2 a{
+    color: white;
+    text-decoration: none;
+}
+
+.pak3{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/ectrptdc.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism3{
+     position: absolute;
+    margin-top: 240px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism3 h1{
+    font-weight: bold;
+}
+
+.tourism3 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.pak4{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/sikhtrail.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism4{
+     position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism4 h1{
+    font-weight: bold;
+}
+
+.tourism4 a{
+    color: white;
+    text-decoration: none;
+}
+
+.images2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+
+
+.pak5{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/budhtrail.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism5{
+     position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism5 h1{
+    font-weight: bold;
+}
+
+.tourism5 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.pak6{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/taxila.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism6{
+     position: absolute;
+    margin-top: 280px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism6 h1{
+    font-weight: bold;
+}
+
+.tourism6 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.pak7{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/worldsites.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism7{
+     position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism7 h1{
+    font-weight: bold;
+}
+
+.tourism7 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.images3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+
+.pak8{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/rkarttr.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism8{
+     position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism8 h1{
+    font-weight: bold;
+}
+
+.tourism8 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.pak9{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/mtrpak.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism9{
+     position: absolute;
+    margin-top: 190px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism9 h2{
+    font-weight: bold;
+}
+
+.tourism9 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak10{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/Newsletter\ Design.cdr\ 55_page-0001.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism10{
+     position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism10 h1{
+    font-weight: bold;
+}
+
+.tourism10 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.pak11{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/Newlettercover.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism11{
+     position: absolute;
+    margin-top: 170px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism11 h1{
+    font-weight: bold;
+}
+
+.tourism11 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.images4{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+
+
+
+.pak12{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/pgm_1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism12{
+     position: absolute;
+    margin-top: 190px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism12 h1{
+    font-weight: bold;
+}
+
+.tourism12 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak13{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/nagm11.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism13{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism13 h1{
+    font-weight: bold;
+}
+
+.tourism13 a{
+    color: white;
+    text-decoration: none;
+}
+
+#head1{
+    color: #888888;
+    text-align:  center;
+    margin: 10px;
+}
+
+.images5{
+      display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+
+.pak14{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/GB brochure.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism14{
+     position: absolute;
+    margin-top: 300px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism14 h1{
+    font-weight: bold;
+}
+
+.tourism14 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak15{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/tourist\ guide\ gb.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism15{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism15 h1{
+    font-weight: bold;
+}
+
+.tourism15 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak16{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/calendar\ 2022\ gb.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism16{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism16 h1{
+    font-weight: bold;
+}
+
+.tourism16 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak17{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ ghnc.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism17{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism17 h1{
+    font-weight: bold;
+}
+
+.tourism17 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.images6{
+      display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+
+.pak18{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ gzr.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism18{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism18 h1{
+    font-weight: bold;
+}
+
+.tourism18 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak19{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ glt.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism19{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism19 h1{
+    font-weight: bold;
+}
+
+.tourism19 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.pak20{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ hnz.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism20{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism20 h1{
+    font-weight: bold;
+}
+
+.tourism20 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.pak21{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ ngr.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism21{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism21 h1{
+    font-weight: bold;
+}
+
+.tourism21 a{
+    color: white;
+    text-decoration: none;
+}
+
+.images7{
+      display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+
+.pak22{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ skd.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism22{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism22 h1{
+    font-weight: bold;
+}
+
+.tourism22 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.pak23{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ dmr.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism23{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism23 h1{
+    font-weight: bold;
+}
+
+.tourism23 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.pak24{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ astr.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism24{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism24 h1{
+    font-weight: bold;
+}
+
+.tourism24 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak25{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/post\ shgr.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism25{
+     position: absolute;
+    margin-top: 230px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism25 h1{
+    font-weight: bold;
+}
+
+.tourism25 a{
+    color: white;
+    text-decoration: none;
+}
+
+.images8{
+     display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+
+.pak26{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/chitral.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism26{
+     position: absolute;
+    margin-top: 290px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism26 h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.tourism26 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak27{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/galyat.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism27{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism27 h1{
+    font-weight: bold;
+}
+
+.tourism27 a{
+    color: white;
+    text-decoration: none;
+}
+
+.pak28{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/northermapkp.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism28{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism28 h1{
+    font-weight: bold;
+}
+
+.tourism28 a{
+    color: white;
+    text-decoration: none;
+}
+
+.pak29{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/peshawarbooklet.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism29{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism29 h1{
+    font-weight: bold;
+}
+
+.tourism29 a{
+    color: white;
+    text-decoration: none;
+}
+
+.images9{
+       display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.pak30{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/kaghan.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism30{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism30 h1{
+    font-weight: bold;
+}
+
+.tourism30 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak31{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/kalash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism31{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism31 h1{
+    font-weight: bold;
+}
+
+.tourism31 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak32{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/southernmap.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism32{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism32 h1{
+    font-weight: bold;
+}
+
+.tourism32 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak33{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/swatvalley.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism33{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism33 h1{
+    font-weight: bold;
+}
+
+.tourism33 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.images10{
+        display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+
+.pak34{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/punjab\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism34{
+     position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism34 h1{
+    font-weight: bold;
+}
+
+.tourism34 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak35{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/multan.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism35{
+     position: absolute;
+    margin-top: 290px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism35 h1{
+    font-weight: bold;
+}
+
+.tourism35 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.pak36{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/soon\ valley.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism36{
+     position: absolute;
+    margin-top: 290px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism36 h1{
+    font-weight: bold;
+}
+
+.tourism36 a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.pak37{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/soon\ valley\ urdu.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+}
+
+
+.tourism37{
+     position: absolute;
+    margin-top: 270px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tourism37 h1{
+    font-weight: bold;
+}
+
+.tourism37 a{
+    color: white;
+    text-decoration: none;
+}

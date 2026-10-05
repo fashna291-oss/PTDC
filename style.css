@@ -1,0 +1,859 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    display: flex;
+    margin: 10px 240px;
+    gap: 20px;
+    color: rgb(102, 102, 102);
+    border-bottom: 1px solid rgb(172, 170, 170);
+    font-size: 18px;
+}
+
+.div1 i{
+    font-size: 14px;
+    color: rgb(2, 54, 2);
+}
+
+.div1 span{
+    font-size: 25px;
+    margin-top: -5px;
+}
+
+.div2{
+    display: flex;
+}
+
+.div2 img{
+    width: 300px;
+    margin-left: 240px;
+}
+
+.navbar-nav{
+    margin-left: 100px;
+    gap: 20px;
+    font-weight: bold;
+}
+
+.sec1{
+    margin-top: 20px;
+}
+
+
+.carousel-caption{
+    margin-bottom: 120px;
+}
+
+.carousel-caption h2{
+    font-size: 50px;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    width: 90%;
+    margin: auto;
+}
+
+.salam{
+    width: 25%;
+}
+
+.salam p{
+    margin-top: 20px;
+    max-width: 290px;
+    font-weight: bold;
+     color: rgb(110, 109, 109);
+}
+
+.imgs{
+    width: 25%;
+}
+
+.imgs img{
+    width: 100%;
+}
+
+.parah1{
+    width: 40%;
+}
+
+.parah1 h2{
+    color: rgb(1, 77, 1);
+    font-weight: bold;
+}
+
+.parah1 p{
+    max-width: 400px;
+    color: rgb(110, 109, 109);
+    font-weight: bold;
+}
+
+.parah1 a{
+    color: rgb(1, 77, 1);
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.div4{
+    background:  #28a745;
+    padding: 35px 6% 50px;
+    margin-top: 20px;
+}
+
+.div4 h1{
+    text-align: center;
+    color: rgba(255, 255, 255,0.45);
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    margin-bottom: 15px;
+}
+
+.update-card{
+    width: 30%;
+    text-align: center;
+    color: white;
+}
+
+.update-card img{
+    width: 100%;
+    height: 360px;
+    object-fit: cover;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+
+.update-card h3{
+    color: white;
+    font-size: 23px;
+    line-height: 1.25;
+    font-weight: bold;
+    margin-top: 14px;
+}
+
+.update-card p{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.div4 .carousel-indicators{
+    position: relative;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+
+.div4 .carousel-indicators button{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 0;
+    margin: 0 5px;
+}
+
+.div5{
+    display: flex;
+    margin-top: 40px;
+    background: rgba(233, 231, 231, 0.45);
+}
+
+.ptd{
+    margin-left: 20%;
+    margin-top: 60px;
+}
+
+.ptd h1{
+    color: #28a745;
+    font-weight: bold;
+}
+ 
+.ptd h6{
+    color: #28a745;
+    font-weight: bold;
+}
+
+.ptd p{
+    color: rgb(110, 109, 109);
+    max-width: 1700px;
+}
+
+.img1 img{
+    width: 92%;
+    margin-left: 8%;
+}
+
+.div6{
+    display: flex;
+     background: rgba(233, 231, 231, 0.45);
+}
+
+.ntc{
+    margin-top: 50px;
+}
+
+
+.ntc h1{
+    color: #28a745;
+    font-weight: bold;
+}
+
+.ntc h6{
+    color: #28a745;
+    font-weight: bold;
+}
+
+.ntc p{
+    color: rgb(110, 109, 109);
+    width: 700px;
+
+}
+
+.ntc button{
+    background-color: #28a745;
+    border: none;
+    padding: 8px 26px;
+    color: white;
+    border-radius: 22px;
+    font-weight: bold;
+
+}
+
+.img2 img{
+    width: 93%;
+}
+
+.div7 h1{
+    color: #024612;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+
+.islam{
+    background-image: url(images/islamabad.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    width: 140vh;
+    margin-left: 17%;
+    border-radius: 10px;
+   position: relative;
+}
+
+.bad{
+    position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+.second-parah{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+     margin-top: 20px;
+     margin-left: 30px;
+}
+
+.div8{
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/punjab.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 55vh;
+    border-radius: 10px;
+    position: relative;
+}
+
+.punjab{
+       position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+.div9{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/sindh.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 85vh;
+    border-radius: 10px;
+    position: relative;
+}
+
+.sindh{
+       position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+.third-parah{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+     margin-top: 20px;
+     margin-left: 30px;
+}
+
+.div10{
+       background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/kpk.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 85vh;
+    border-radius: 10px;
+    position: relative;
+}
+
+.khyber{
+        position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+.div11{
+     background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/balochistan.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 55vh;
+    border-radius: 10px;
+    position: relative;
+}
+
+.baloch{
+          position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+.fourth-parah{
+     display: flex;
+    justify-content: center;
+    gap: 10px;
+     margin-top: 20px;
+     margin-left: 30px;
+}
+
+.div12{
+       background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/kashmir.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 55vh;
+    border-radius: 10px;
+    position: relative;
+}
+
+.azad{
+          position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+.div13{
+      background-image:
+        linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("images/gilgit-baltistan1.jpg");
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vh;
+    width: 85vh;
+    border-radius: 10px;
+    position: relative;
+}
+
+.gilgit{
+         position: absolute;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    bottom: 10px;
+}
+
+footer{
+    position: relative;
+    color: white;
+    background: linear-gradient(rgba(151, 91, 10, 0.82),
+    rgba(151, 91, 10, 0.82)),
+    url(images/footer-back.jfif);
+    background-size: cover;
+    background-position: center;
+    padding-top: 60px;
+    margin-top: 30px;
+}
+
+.footer-container{
+    width: 72%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    padding-bottom: 55px;
+}
+
+.footer-about{
+    width: 25%;
+}
+
+.footer-logo img{
+    width: 250px;
+    height: auto;
+    margin-bottom: 2px;
+}
+
+.footer-about h2{
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+
+.footer-about p{
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.footer-about h4{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.footer-links{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.footer-links div{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.footer-links a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.footer-links a:hover{
+    color: #b8e986;
+}
+
+.footer-box{
+    width: 320px;
+    background: rgba(255, 255, 255, 0.22);
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+}
+
+.footer-box h4{
+    font-size: 15px;
+    margin-bottom: 22px;
+}
+
+.footer-box p{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 18px 0;
+}
+
+.footer-box .follow{
+    color: #9cff4a;
+    margin-top: 25px;
+    margin-bottom: 12px;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.social-icons a{
+    width: 38px;
+    height: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 7px;
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.social-icons a:nth-child(1){
+    background: #4267B2;
+}
+
+.social-icons a:nth-child(2){
+    background: #1DA1F2;
+}
+
+.social-icons a:nth-child(3){
+    background: #E1306C;
+}
+
+.social-icons a:nth-child(4){
+    background: #FF0000;
+}
+
+.copyright{
+    background: rgba(60, 35, 5, 0.55);
+    padding: 18px 15%;
+    font-size: 14px;
+}
+
+.copyright p{
+    margin: 0;
+}
+
+
+@media (max-width: 480px) {
+    .div1{
+        margin: 10px 15px;
+        gap: 8px;
+        font-size: 13px;
+        flex-wrap: wrap;
+    }
+
+    .div1 i{
+        font-size: 11px;
+    }
+
+    .div1 span{
+        font-size: 18px;
+        margin-top: 0;
+    }
+
+    /* Navbar */
+    .div2{
+        display: block;
+    }
+
+    .div2 img{
+        width: 180px;
+        margin-left: 15px;
+    }
+
+    .navbar-nav{
+        margin-left: 15px;
+        gap: 5px;
+        padding-top: 10px;
+    }
+
+    .navbar-nav .nav-link{
+        font-size: 14px;
+    }
+
+    .sec1{
+        margin-top: 10px;
+    }
+
+    .carousel-caption{
+        margin-bottom: 10px;
+    }
+
+    .carousel-caption h2{
+        font-size: 25px;
+    }
+
+    .div3{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 90%;
+        text-align: center;
+    }
+
+    .salam,
+    .imgs,
+    .parah1{
+        width: 100%;
+    }
+
+    .salam p{
+        max-width: 100%;
+    }
+
+    .imgs img{
+        width: 80%;
+    }
+
+    .parah1 p{
+        max-width: 100%;
+    }
+
+    .div4{
+        padding: 25px 15px 40px;
+        margin-top: 20px;
+    }
+
+    .div4 h1{
+        font-size: 30px;
+        letter-spacing: 3px;
+        margin-bottom: 20px;
+    }
+
+    .update-card{
+        width: 90%;
+        margin: auto;
+    }
+
+    .update-card img{
+        width: 100%;
+        height: 250px;
+    }
+
+    .update-card h3{
+        font-size: 19px;
+    }
+
+    .update-card p{
+        font-size: 15px;
+    }
+
+    .div5{
+        display: flex;
+        flex-direction: column;
+        margin-top: 25px;
+        padding: 20px 15px;
+    }
+
+    .ptd{
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .ptd h1{
+        font-size: 28px;
+    }
+
+    .ptd p{
+        max-width: 100%;
+    }
+
+    .img1 img{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .div6{
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 20px 15px;
+    }
+
+    .ntc{
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .ntc h1{
+        font-size: 28px;
+    }
+
+    .ntc p{
+        width: 100%;
+    }
+
+    .img2 img{
+        width: 100%;
+    }
+
+    .div7 h1{
+        font-size: 27px;
+        margin-left: 0;
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .islam{
+        width: 90%;
+        height: 300px;
+        margin: 20px auto 0;
+    }
+
+    .bad{
+        margin-left: 15px;
+        bottom: 10px;
+    }
+
+    .second-parah{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        margin: 15px auto;
+        width: 90%;
+    }
+
+    .div8,
+    .div9{
+        width: 100%;
+        height: 280px;
+    }
+
+    .punjab,
+    .sindh{
+        margin-left: 15px;
+    }
+
+    .third-parah{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        margin: 15px auto;
+        width: 90%;
+    }
+
+    .div10,
+    .div11{
+        width: 100%;
+        height: 280px;
+    }
+
+    .khyber,
+    .baloch{
+        margin-left: 15px;
+    }
+
+    .fourth-parah{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        margin: 15px auto;
+        width: 90%;
+    }
+
+    .div12,
+    .div13{
+        width: 100%;
+        height: 280px;
+    }
+
+    .azad,
+    .gilgit{
+        margin-left: 15px;
+    }
+
+    footer{
+        margin-top: 25px;
+        padding-top: 40px;
+        background-position: center;
+    }
+
+    .footer-container{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+        padding-bottom: 35px;
+    }
+
+    .footer-about{
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-logo img{
+        width: 200px;
+    }
+
+    .footer-about h2{
+        font-size: 30px;
+    }
+
+    .footer-about p{
+        font-size: 13px;
+    }
+
+    .footer-links{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        padding-top: 0;
+    }
+
+    .footer-links div{
+        width: 50%;
+        gap: 18px;
+    }
+
+    .footer-links a{
+        font-size: 13px;
+    }
+
+    .footer-box{
+        width: 100%;
+        padding: 20px 15px;
+    }
+
+    .footer-box h4{
+        font-size: 14px;
+    }
+
+    .footer-box p{
+        font-size: 13px;
+        margin: 15px 0;
+    }
+
+    .social-icons {
+        gap: 10px;
+    }
+
+    .social-icons a{
+        width: 36px;
+        height: 32px;
+        font-size: 18px;
+    }
+
+    .copyright{
+        padding: 15px;
+        text-align: center;
+        font-size: 12px;
+    }
+}
+
