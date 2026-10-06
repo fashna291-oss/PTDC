@@ -552,7 +552,17 @@ footer{
 
 
 @media (max-width: 480px) {
+
+    *{
+        box-sizing: border-box;
+    }
+
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
     .div1{
+        width: calc(100% - 30px);
         margin: 10px 15px;
         gap: 8px;
         font-size: 13px;
@@ -564,45 +574,65 @@ footer{
     }
 
     .div1 span{
-        font-size: 18px;
+        font-size: 16px;
         margin-top: 0;
     }
 
     /* Navbar */
     .div2{
+        width: 100%;
         display: block;
     }
 
     .div2 img{
         width: 180px;
+        max-width: 80%;
         margin-left: 15px;
     }
 
     .navbar-nav{
-        margin-left: 15px;
-        gap: 5px;
-        padding-top: 10px;
+        width: 100%;
+        margin-left: 0px;
+        gap: 0px;
+        padding: 10px 15px;
     }
 
     .navbar-nav .nav-link{
         font-size: 14px;
+        padding: 8px 0;
     }
 
     .sec1{
+        width: 100%;
         margin-top: 10px;
+        overflow: hidden;
+    }
+
+    .sec1 img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
     }
 
     .carousel-caption{
         margin-bottom: 10px;
+        left: 5%;
+        right: 5%;
     }
 
     .carousel-caption h2{
         font-size: 25px;
     }
 
+    .carousel-caption p{
+        font-size: 13px;
+    }
+
     .div3{
+        margin: 30px auto;
         display: flex;
         flex-direction: column;
+        align-items: center;
         gap: 20px;
         width: 90%;
         text-align: center;
@@ -612,39 +642,46 @@ footer{
     .imgs,
     .parah1{
         width: 100%;
+        margin: 0;
     }
 
-    .salam p{
+    .salam p,
+    .parah1 p{
+        width: 100%;
         max-width: 100%;
     }
 
     .imgs img{
         width: 80%;
+        max-width: 300px;
     }
 
-    .parah1 p{
-        max-width: 100%;
-    }
+
 
     .div4{
+        width: 100%;
         padding: 25px 15px 40px;
         margin-top: 20px;
+        overflow: hidden;
     }
 
     .div4 h1{
         font-size: 30px;
-        letter-spacing: 3px;
+        letter-spacing: 2px;
         margin-bottom: 20px;
+        text-align: center;
     }
 
     .update-card{
-        width: 90%;
+        width: 100%;
+        max-width: 350px;
         margin: auto;
     }
 
     .update-card img{
         width: 100%;
-        height: 250px;
+        height: 230px;
+        object-fit: cover;
     }
 
     .update-card h3{
@@ -652,18 +689,21 @@ footer{
     }
 
     .update-card p{
-        font-size: 15px;
+        font-size: 14px;
     }
 
     .div5{
+        width: 100%;
         display: flex;
         flex-direction: column;
         margin-top: 25px;
         padding: 20px 15px;
+        gap: 20px;
     }
 
     .ptd{
-        margin: 20px 0;
+        width: 100%;
+        margin: 10px 0;
         text-align: center;
     }
 
@@ -672,22 +712,32 @@ footer{
     }
 
     .ptd p{
+        width: 100%;
         max-width: 100%;
+    }
+
+    .img1{
+        width: 100%;
+        text-align: center;
     }
 
     .img1 img{
         width: 100%;
+        max-width: 400px;
         margin-left: 0;
     }
 
     .div6{
+        width: 100%;
         display: flex;
         flex-direction: column-reverse;
         padding: 20px 15px;
+        gap: 20px;
     }
 
     .ntc{
-        margin-top: 25px;
+        width: 100%;
+        margin-top: 15px;
         text-align: center;
     }
 
@@ -699,20 +749,29 @@ footer{
         width: 100%;
     }
 
+    .img2{
+        width: 100%;
+        text-align: center;
+    }
+
     .img2 img{
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .div7{
         width: 100%;
     }
 
     .div7 h1{
-        font-size: 27px;
-        margin-left: 0;
-        margin-top: 25px;
+        font-size: 27px;;
+        margin: 25px 0 15px;
         text-align: center;
     }
 
     .islam{
         width: 90%;
-        height: 300px;
+        height: 280px;
         margin: 20px auto 0;
     }
 
@@ -779,13 +838,16 @@ footer{
     }
 
     footer{
+        width: 100%;
         margin-top: 25px;
         padding-top: 40px;
         background-position: center;
+        overflow: hidden;
     }
 
     .footer-container{
         width: 90%;
+        margin: auto;
         display: flex;
         flex-direction: column;
         gap: 35px;
@@ -799,6 +861,7 @@ footer{
 
     .footer-logo img{
         width: 200px;
+        max-width: 80%;
     }
 
     .footer-about h2{
@@ -807,13 +870,14 @@ footer{
 
     .footer-about p{
         font-size: 13px;
+        line-height: 20px;
     }
 
     .footer-links{
         width: 100%;
         display: flex;
         justify-content: space-between;
-        gap: 20px;
+        gap: 15px;
         padding-top: 0;
     }
 
@@ -829,6 +893,7 @@ footer{
     .footer-box{
         width: 100%;
         padding: 20px 15px;
+        text-align: center;
     }
 
     .footer-box h4{
@@ -841,6 +906,8 @@ footer{
     }
 
     .social-icons {
+        display: flex;
+        justify-content: center;
         gap: 10px;
     }
 
@@ -851,6 +918,7 @@ footer{
     }
 
     .copyright{
+        width: 100%;
         padding: 15px;
         text-align: center;
         font-size: 12px;

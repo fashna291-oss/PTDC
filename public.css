@@ -1251,3 +1251,263 @@
     color: white;
     text-decoration: none;
 }
+
+
+@media (max-width: 480px) {
+    .public h1{
+        font-size: 28px;
+        margin-top: 20px;
+        letter-spacing: 1px;
+    }
+
+    .images,
+    .images2,
+    .images3,
+    .images4,
+    .images5,
+    .images6,
+    .images7,
+    .images8,
+    .images9,
+    .images10{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        margin-left: 0;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .pak,
+    .pak2,
+    .pak3,
+    .pak4,
+    .pak5,
+    .pak6,
+    .pak7,
+    .pak8,
+    .pak9,
+    .pak10,
+    .pak11,
+    .pak12,
+    .pak13,
+    .pak14,
+    .pak15,
+    .pak16,
+    .pak17,
+    .pak18,
+    .pak19,
+    .pak20,
+    .pak21,
+    .pak22,
+    .pak23,
+    .pak24,
+    .pak25,
+    .pak26,
+    .pak27,
+    .pak28,
+    .pak29,
+    .pak30,
+    .pak31,
+    .pak32,
+    .pak33,
+    .pak34,
+    .pak35,
+    .pak36,
+    .pak37{
+        width: 90%;
+        max-width: 320px;
+        height: 400px;
+        margin: 0 auto;
+        border-radius: 18px;
+    }
+
+    .tourism,
+    .tourism2,
+    .tourism3,
+    .tourism4,
+    .tourism5,
+    .tourism6,
+    .tourism7,
+    .tourism8,
+    .tourism9,
+    .tourism10,
+    .tourism11,
+    .tourism12,
+    .tourism13,
+    .tourism14,
+    .tourism15,
+    .tourism16,
+    .tourism17,
+    .tourism18,
+    .tourism19,
+    .tourism20,
+    .tourism21,
+    .tourism22,
+    .tourism23,
+    .tourism24,
+    .tourism25,
+    .tourism26,
+    .tourism27,
+    .tourism28,
+    .tourism29,
+    .tourism30,
+    .tourism31,
+    .tourism32,
+    .tourism33,
+    .tourism34,
+    .tourism35,
+    .tourism36,
+    .tourism37{
+        left: 20px;
+        right: 15px;
+        margin-left: 0;
+        margin-top: 0;
+        bottom: 25px;
+        position: absolute;
+    }
+
+
+
+    .tourism h1,
+    .tourism2 h1,
+    .tourism3 h1,
+    .tourism4 h1,
+    .tourism5 h1,
+    .tourism6 h1,
+    .tourism7 h1,
+    .tourism8 h1,
+    .tourism9 h1,
+    .tourism10 h1,
+    .tourism11 h1,
+    .tourism12 h1,
+    .tourism13 h1,
+    .tourism14 h1,
+    .tourism15 h1,
+    .tourism16 h1,
+    .tourism17 h1,
+    .tourism18 h1,
+    .tourism19 h1,
+    .tourism20 h1,
+    .tourism21 h1,
+    .tourism22 h1,
+    .tourism23 h1,
+    .tourism24 h1,
+    .tourism25 h1,
+    .tourism26 h1,
+    .tourism27 h1,
+    .tourism28 h1,
+    .tourism29 h1,
+    .tourism30 h1,
+    .tourism31 h1,
+    .tourism32 h1,
+    .tourism33 h1,
+    .tourism34 h1,
+    .tourism35 h1,
+    .tourism36 h1,
+    .tourism37 h1{
+        font-size: 25px;
+        line-height: 1.2;
+        margin-bottom: 8px;
+    }
+
+    .tourism26{
+        font-size: 32px;
+    }
+
+    .tourism9 h2{
+        font-size: 25px;
+        margin-bottom: 8px;
+    }
+
+
+
+    .tourism a,
+    .tourism2 a,
+    .tourism3 a,
+    .tourism4 a,
+    .tourism5 a,
+    .tourism6 a,
+    .tourism7 a,
+    .tourism8 a,
+    .tourism9 a,
+    .tourism10 a,
+    .tourism11 a,
+    .tourism12 a,
+    .tourism13 a,
+    .tourism14 a,
+    .tourism15 a,
+    .tourism16 a,
+    .tourism17 a,
+    .tourism18 a,
+    .tourism19 a,
+    .tourism20 a,
+    .tourism21 a,
+    .tourism22 a,
+    .tourism23 a,
+    .tourism24 a,
+    .tourism25 a,
+    .tourism26 a,
+    .tourism27 a,
+    .tourism28 a,
+    .tourism29 a,
+    .tourism30 a,
+    .tourism31 a,
+    .tourism32 a,
+    .tourism33 a,
+    .tourism34 a,
+    .tourism36 a ,
+    .tourism37 a{
+        font-size: 14px;
+    } 
+
+    #head1{
+        font-size: 28px;
+        margin: 25px 10px;
+        letter-spacing: 1px;
+    }
+
+
+      .pak,
+    .pak2,
+    .pak3,
+    .pak4,
+    .pak5,
+    .pak6,
+    .pak7,
+    .pak8,
+    .pak9,
+    .pak10,
+    .pak11,
+    .pak12,
+    .pak13,
+    .pak14,
+    .pak15,
+    .pak16,
+    .pak17,
+    .pak18,
+    .pak19,
+    .pak20,
+    .pak21,
+    .pak22,
+    .pak23,
+    .pak24,
+    .pak25,
+    .pak26,
+    .pak27,
+    .pak28,
+    .pak29,
+    .pak30,
+    .pak31,
+    .pak32,
+    .pak33,
+    .pak34,
+    .pak35,
+    .pak36,
+    .pak37{
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
