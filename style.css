@@ -239,6 +239,11 @@
     letter-spacing: 1px;
 }
 
+.div5,
+.div6{
+    overflow-x: hidden;
+}
+
 .islam{
     background-image: url(images/islamabad.jpeg);
     background-position: center;
@@ -550,6 +555,11 @@ footer{
     margin: 0;
 }
 
+
+html,
+body{
+    overflow-x: hidden;
+}
 
 @media (max-width: 480px) {
 
